@@ -7,5 +7,5 @@ function capital(str) {
 
   return firstCapital;
 }
-const result = capital("hello world");
+const result = capital("hello world tasnim");
 console.log(result);
